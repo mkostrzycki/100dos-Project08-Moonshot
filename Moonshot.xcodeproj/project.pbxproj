@@ -63,9 +63,9 @@
 			children = (
 				E13FB4802BD05A18001C492D /* MoonshotApp.swift */,
 				E13FB4822BD05A18001C492D /* ContentView.swift */,
+				E13FB4942BD0691D001C492D /* Bundle-Decodable.swift */,
 				E13FB48F2BD0672E001C492D /* astronauts.json */,
 				E13FB4922BD06836001C492D /* Astronaut.swift */,
-				E13FB4942BD0691D001C492D /* Bundle-Decodable.swift */,
 				E13FB48E2BD0672E001C492D /* missions.json */,
 				E13FB4962BD06FAD001C492D /* Mission.swift */,
 				E13FB4842BD05A19001C492D /* Assets.xcassets */,
