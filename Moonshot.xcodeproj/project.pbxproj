@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1197F152BD1A73D0002444B /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1197F142BD1A73D0002444B /* AstronautView.swift */; };
 		E13FB4812BD05A18001C492D /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13FB4802BD05A18001C492D /* MoonshotApp.swift */; };
 		E13FB4832BD05A18001C492D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13FB4822BD05A18001C492D /* ContentView.swift */; };
 		E13FB4852BD05A19001C492D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E13FB4842BD05A19001C492D /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1197F142BD1A73D0002444B /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 		E13FB47D2BD05A18001C492D /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E13FB4802BD05A18001C492D /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
 		E13FB4822BD05A18001C492D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				E13FB4982BD07B83001C492D /* Color-Theme.swift */,
 				E13FB48F2BD0672E001C492D /* astronauts.json */,
 				E13FB4922BD06836001C492D /* Astronaut.swift */,
+				E1197F142BD1A73D0002444B /* AstronautView.swift */,
 				E13FB48E2BD0672E001C492D /* missions.json */,
 				E13FB4962BD06FAD001C492D /* Mission.swift */,
 				E13FB49A2BD11613001C492D /* MissionView.swift */,
@@ -162,6 +165,7 @@
 			files = (
 				E13FB49B2BD11613001C492D /* MissionView.swift in Sources */,
 				E13FB4932BD06836001C492D /* Astronaut.swift in Sources */,
+				E1197F152BD1A73D0002444B /* AstronautView.swift in Sources */,
 				E13FB4992BD07B83001C492D /* Color-Theme.swift in Sources */,
 				E13FB4832BD05A18001C492D /* ContentView.swift in Sources */,
 				E13FB4812BD05A18001C492D /* MoonshotApp.swift in Sources */,
