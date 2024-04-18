@@ -26,10 +26,7 @@ struct MissionView: View {
                     .padding(.top, 5)
 
                 VStack(alignment: .leading) {
-                    Rectangle()
-                        .frame(height: 2)
-                        .foregroundStyle(.white.opacity(0.2))
-                        .padding(.vertical)
+                    DividerView()
 
                     Text("Mission Highlights")
                         .font(.title.bold())
@@ -37,10 +34,7 @@ struct MissionView: View {
 
                     Text(mission.description)
 
-                    Rectangle()
-                        .frame(height: 2)
-                        .foregroundStyle(.white.opacity(0.2))
-                        .padding(.vertical)
+                    DividerView()
 
                     Text("Crew")
                         .font(.title.bold())
